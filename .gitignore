@@ -1,0 +1,8 @@
+*.iml
+bin
+gen
+cucumber/reports
+cucumber/screenshots
+cucumber/features/test_servers
+.idea
+.settings/
